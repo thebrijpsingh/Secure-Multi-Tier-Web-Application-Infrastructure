@@ -1,0 +1,9 @@
+Objective:
+The goal is to design and deploy a secure, scalable infrastructure for hosting web applications. The infrastructure will consist of three tiers: the web server, application server, and database server. Each tier will be secured with firewalls and configured to communicate only with the relevant layers, ensuring minimal attack surfaces.
+
+Project Components:
+- Web server (Nginx or Apache)
+- Application server (PHP or Node.js)
+- Database server (MySQL or PostgreSQL)
+- SSL encryption (Let's Encrypt)
+- Security (Firewall, SSH hardening)
